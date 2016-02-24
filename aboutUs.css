@@ -1,0 +1,83 @@
+h2{
+	font-weight: normal;
+	}
+
+#ourFamily{
+	padding:0px;
+	margin:0px;
+	}
+
+#ourFamilyText{
+	text-align:center;
+	width: 850px;
+	height: 200px;
+	padding-left: 60px;
+	padding-bottom: 10px;
+	}
+
+
+#vendors {
+	padding-top:60px;
+	padding-left: 0px;
+	margin:0px;
+	float:left;
+	height:200px;
+	width:330px;
+	}
+	
+#ourVendorsText{
+	display:inline;
+	float:right;
+	width: 600px;
+	height: 200px;
+	padding-top: 0px;
+	padding-right:0px;
+	padding-bottom: 20px;
+	padding-left: 0px;
+	margin:10px;
+	}
+
+#chef{
+	padding-top:60px;
+	margin:20px;
+	float:right;
+	width: 330px;
+	height:200px;
+	}
+
+
+#ourChefText{
+	display:inline;
+	float:left;
+	width: 600px;
+	height: 200px;
+	padding-top: 0px;
+	padding-right:0px;
+	padding-bottom: 20px;
+	padding-left: 0px;
+	margin:10px;
+	}
+
+
+#sommelier{
+	padding-top:60px;
+	padding-bottom:5px;
+	margin:5px;
+	margin-top:30px;
+	float:left;
+	height:200px;
+	width:330px;
+	}
+
+#ourSommelierText{
+	display:inline;
+	float:right;
+	width: 600px;
+	height: 200px;
+	padding-top: 0px;
+	padding-right:0px;
+	padding-bottom: 20px;
+	padding-left: 0px;
+	margin:10px;
+	}
+

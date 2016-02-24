@@ -1,0 +1,72 @@
+
+#actionImages{
+	width: 1000px;
+	height: 200px;
+	float: left;
+	padding-top: 30px;
+	padding-left: 0px;
+	padding-right:0px;
+	text-align: center;
+	}
+
+#actionImages li{
+
+	text-decoration: none;
+	float:left;
+	width:333px;
+	height:200px;
+	}
+	
+#actionImages a{
+	display: block;
+	width: 333px;
+  	height: 110px;
+  	padding-top: 91px;
+  	text-decoration: none;
+  	font-size: 19px;
+  	color: black;
+  	background: #ffffff;
+  	opacity: 0;	
+	}
+	
+#actionImages a:hover{
+	text-decoration: none;
+	opacity: .75;
+    -webkit-transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;	
+    }
+	
+#wine{
+	background-image: url("../images/wineToast.jpg");
+	background-size: 350px;
+	}
+
+#food{
+	background-image: url("../images/rawPasta.jpg");
+	background-size: 350px;
+}
+
+
+#rightBox{ 
+	background-image: url("../images/banquetTable.jpg");
+	background-size: 350px;
+	float: right;
+	}
+
+h2{
+	letter-spacing: 1px;
+	font-weight: normal;
+	}
+
+h3{
+	font-weight: normal;
+	}
+
+#intro {
+  	text-align: center;
+  	width: 80%;
+  	padding-left: 10%;
+  	padding-top: 20px;
+	}

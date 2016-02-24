@@ -1,0 +1,53 @@
+#title {
+  	padding-top: 0px;
+  	margin: 0;
+  	text-align: center;
+  	}
+
+	
+.box{	
+	float:left;
+	padding-top:20px;
+	padding-left: 0px;
+	padding-right:3px;
+	text-align: center;
+	height:200px;
+	width: 330px;
+	list-style-type: none;
+	}
+
+.rightBox{
+	padding-top:20px;
+	padding-left: 0px;
+	padding-right:3px;
+	text-align: center;
+	height:200px;
+	width: 330px;
+	list-style-type: none;
+	padding-right: 0px;
+	float: left;
+	height:200px;
+	width: 330px	
+	}
+
+	
+h2{
+	padding-bottom: 5px;
+	font-weight: normal;
+	}
+
+p{
+	font-size: 20px;
+	}
+
+#slideshow{
+	border: 0;
+
+	}
+	
+#slideshow a:hover{
+	opacity: 1;
+	
+	}
+	
+
